@@ -8,7 +8,8 @@
    },
    "permissions": [
      "activeTab",
-     "tabs"
+     "tabs",
+     "https://www.facebook.com/"
    ],
 
    "background": {
